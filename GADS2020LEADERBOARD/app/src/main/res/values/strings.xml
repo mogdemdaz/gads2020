@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GADS 2020</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="leaderBoard">LEADERBOAD</string>
+    <string name="btn_submit">Submit</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="GAPS">Google Africa Developer Scholarship</string>
+    <string name="learners_logo">learners logo</string>
+    <string name="skill_iq_logo">skill iq logo</string>
+    <string name="title_activity_full_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="cancel">cancel</string>
+    <string name="question">question mark</string>
+    <string name="yes">Yes</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+</resources>

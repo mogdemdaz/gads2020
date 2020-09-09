@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/black_background"
+        android:id="@+id/black_background"/>
+
+    <item
+        android:drawable="@drawable/top_overlay"
+        android:id="@+id/top_overlay"
+        android:width="350dp"
+        android:height="250dp"
+        android:left="-250dp"
+        android:top="-100dp"
+        />
+
+    <item
+        android:drawable="@drawable/bottom_overlay"
+        android:id="@+id/bottom_overlay"
+        android:top="400dp"
+        android:left="-50dp"
+        android:height="699dp"
+        android:width="1999dp" />
+</layer-list>
