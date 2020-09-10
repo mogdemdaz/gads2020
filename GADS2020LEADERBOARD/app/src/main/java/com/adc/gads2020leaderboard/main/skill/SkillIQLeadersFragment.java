@@ -29,7 +29,7 @@ import java.util.Objects;
 /**
  * A placeholder fragment containing a simple view.
  */
-public class SkilIQLeadersFragment extends Fragment {
+public class SkillIQLeadersFragment extends Fragment {
     final String url = "https://gadsapi.herokuapp.com/api/skilliq";
     List<SkillIQLeadersModel> mSkillIQLeadersList;
     SkillIQLeadersRecyclerAdapter mSkillIQLeadersRecyclerAdapter;

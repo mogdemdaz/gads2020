@@ -11,7 +11,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.adc.gads2020leaderboard.R;
 import com.adc.gads2020leaderboard.main.learning.LearningLeadersFragment;
-import com.adc.gads2020leaderboard.main.skill.SkilIQLeadersFragment;
+import com.adc.gads2020leaderboard.main.skill.SkillIQLeadersFragment;
 
 import java.util.Objects;
 
@@ -41,7 +41,7 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
                 fragment = new LearningLeadersFragment();
                 break;
             case 1:
-                fragment =  new SkilIQLeadersFragment();
+                fragment =  new SkillIQLeadersFragment();
                 break;
         }
         return Objects.requireNonNull(fragment);
